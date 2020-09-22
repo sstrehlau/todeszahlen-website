@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  --padding-content: 2rem;
+}
+
+:focus {
+  outline-color: red;
+  outline-width: 3px;
+}
