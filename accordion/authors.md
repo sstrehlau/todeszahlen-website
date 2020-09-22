@@ -1,2 +1,4 @@
-- [Niklas Rudolph](https://twitter.com/TheOrganicer)
-- [Patricia Ennenbach](https://twitter.com/pen1710)
+- [Nadine](http://erfolgreiche-frauen.de/)
+- [Coco](https://deutsche-science-fiction.de/)
+- [Pascal](https://www.wdrmaus.de/)
+- [Simon](https://twitter.com/codeinimkakao)
