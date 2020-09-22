@@ -1,17 +1,17 @@
 ---
-title: "Opern-Spielpläne in NRW: tot und männlich"
-description: WDR 3 Datenanalyse der Opern-Spielzeit 2018/2019
-author: Niklas Rudolph, Patricia Ennenbach
+title: "Volos finden erschreckende Statistik"
+description: Volo-Datenanalyse 2020
+author: Nadine Sand, Coco Thön, Simon Streh, Pascal Dombro
 pub_date: "2019-07-15"
-heroImage: "richard-wagner-und-freunde.jpg"
-heroAlt: "Richard Wagner und seine Freunde"
-heroCredit: "Richard Wagner und seine Freunde"
+heroImage: "gkatzuau.bmp"
+heroAlt: "Jedes Jahr sterben Menschen"
+heroCredit: "Jedes Jahr sterben Menschen"
 sharingImageFacebook: "richard-wagner-und-freunde_facebook.jpg"
 sharingImageTwitter: "richard-wagner-und-freunde_twitter.jpg"
 cg1: "WDR"
-cg2: "Data"
-cg3: "WDR 3"
-cg4: "Opern-Spielpläne in NRW: tot und männlich"
+cg2: "Voloseminar"
+cg3: "Abschlussklasse 98"
+cg4: "Volos finden erschreckende Statistik"
 ---
 
 import DataWrapper from '../components/datawrapper/datawrapper.jsx'
@@ -25,73 +25,13 @@ import YDILine from '../components/ydi/ydiLine.jsx'
 import TabbedView from '../components/data-tabs/TabbedView.jsx'
 import { Link, LinkList } from '../components/link/link.jsx'
 
-# Opern-Spielpläne in NRW: tot und männlich
+# Volos finden erschreckende Statistik
 
-## Wir haben die Opern-Spielpläne in NRW unter die Lupe genommen. Das Ergebnis: NRW ist ein Opern-Paradies. Aber lebende Komponisten haben kaum eine Chance, auf die Spielpläne zu kommen. Und Komponistinnen gar keine.
+## Feministen behaupten Frauen würden benachteiligt. Nun kam aber heraus, dass sie in der Regel länger leben als Männer. Ist der Struggle überhaupt real? Feminismus in der Kritik
 
-Waren Sie in der letzten Spielzeit in der Oper? Dann haben Sie höchstwahrscheinlich Papageno, die Knusperhexe oder Leporello auf der Bühne erlebt. Denn diese Opern und Operetten standen am häufigsten auf dem Spielplan:
 
-## Tabs Beispiel:
+Nadine hat vergessen das (Copy) zu löschen
 
-<TabbedView tabs={[
-    {
-        url: "//datawrapper.dwcdn.net/vX99N/57/",
-        title: "Infektionen",
-        frameTitle: "Bestätigte Infektionen mit Corona: Karte",
-        ariaLabel: "Karte",
-    },
-    {
-        url: "//datawrapper.dwcdn.net/x7wUg/73/",
-        title: "Je 100.000",
-        frameTitle: "Bestätigte Infektionen mit Corona je 100.000 Einwohner: Karte",
-        ariaLabel: "Karte",
-    },
-    {
-        url: "//datawrapper.dwcdn.net/j8Y35/2/",
-        title: "Tabelle",
-        frameTitle: "Infektionen mit Corona: Aktuelle Zahlen aus NRW",
-        ariaLabel: "Tabelle",
-    },
-]} />
-
-<Link title="Dies ist ein Beispiel für einen einzelnen Link" href="https://example.com/" />
-
-<LinkList links={[
-    {
-        title: "Dies ist ein Beispiel für eine Link-Liste",
-        href: "https://example.com/",
-    },
-    {
-        title: "Dies ist noch ein Beispiel für eine Link-Liste",
-        href: "https://example.com/",
-    },
-]} />
-
-## Beispiel WSS Line Chart:
-
-<YDILine name="test_line"/>
-
-## Beispiel WSS Bar Chart:
-
-<YDIBar name="test"/>
-
-## Beispiel 2 WSS Bar Chart:
-
-<YDIBar name="test01"/>
-
-## Beispiel 3 WSS Bar Chart:
-
-<YDIBar name="test02"/>
-
-## Beispiel regulärer Bar Chart:
-
-<SemioticBarChart/>
-
-## Beispiel Video-Player:
-
-<WdrPlayer videoId="2159001" videoPoster="https://i.imgur.com/hZIGM2L.jpg" />
-
-mehr toller text
 
 ### Zauberflöte vor Hänsel und Gretel
 
@@ -100,55 +40,12 @@ mehr toller text
     <DataWrapper
         alt="76 mal wurde die Zauberflöte 2018/2019 in NRW aufgeführt, gefolgt von Hänsel und Gretel mit 34 Aufführungen."
         title="Zauberflöte vor Hänsel und Gretel"
-        src="//datawrapper.dwcdn.net/azwpu/7/"
+        src="https://datawrapper.dwcdn.net/qJMX3/1/"
     />
 </figure>
 
-In der vergangenen Spielzeit stemmten die 13 kommunalen Bühnen über hundert Inszenierungen – mit insgesamt mehr als tausend Aufführungen. Drei Opern pro Tag. NRW ist ein großartiges Bundesland für Oper.
 
-## Viel Angebot, aber wenig Vielfalt
-
-Doch so vielfältig, wie es sich auf den ersten Blick darstellt, ist das Angebot keinesfalls. Denn meistens begegnet das Publikum alten Bekannten:
-
-### Verdi, Mozart, Wagner sind Spitzenreiter
-
-<figure role="group">
-    <figcaption> Zu sehen ist das Geburtsjahr im Verhältnis zur Zahl der Aufführungen. Gelbe Quadrate stehen für lebende KomponistInnen, blaue Punkte für verstorbene. Klicken Sie darauf, um Name, Geburtsjahr und Zahl der Aufführungen zu sehen.</figcaption>
-    <DataWrapper
-        alt="Während lebende KomponistInnen oft nur 1-8 mal aufgeführt werden, werden Komponisten, die über 150 Jahre alt sind besonders häufig aufgeführt. Spitzenreiter sind Guiseppe Verdi und Wolfgang Amadeus Mozart."
-        title="Ältere KomponistInnen werden häufiger aufgeführt"
-        src="//datawrapper.dwcdn.net/48hJE/12/"
-    />
-
-</figure>
-
-Bei Leonard Bernstein und Jacques Offenbach sieht man, dass die großen Jubiläumsjahre sehr erfolgreich darin waren, diese Komponisten wieder auf die Spielpläne zu setzen. Trotzdem sind die großen Namen meistens Verdi, Mozart, Wagner und Puccini - ihre Opern machen etwa ein Drittel der Aufführungen aus. Giuseppe Verdi führt diese Liste mit Abstand an – seine Opern sind gleich 13 mal inszeniert und insgesamt 143 mal aufgeführt worden.
-
-## Im Schnitt sind die Komponisten 180 Jahre alt
-
-Die beliebten Melodien von Mozart und Verdi lassen anscheinend kaum Konkurrenz zu. Denn Stücke von lebenden Komponisten und Komponistinnen finden sich selten auf den Spielplänen. Nur jeder dritte gespielte Komponist lebt noch, im Schnitt sind die Komponisten 180 Jahre alt. Ist die Opernwelt im 19. Jahrhundert stehen geblieben?
-
-### Jeder dritte Komponist lebt - wird aber kaum aufgeführt
-
-<figure role="group">
-    <figcaption> Bei Klick auf 'KomponistInnen' ist zu sehen, wie das Verhältnis von verstorbenen zu lebenden KomponistInnen ist.</ figcaption>
-    <DataWrapper
-        alt="Fast jede dritte KomponistIn lebt, aber nur 9 % der Aufführung stammen von ihnen."
-        title="Nur 9 % der Aufführungen stammen von lebenden KomponistInnen."
-        src="//datawrapper.dwcdn.net/6D2bM/4/"
-    />
-
-</figure>
-
-Für den Komponisten Moritz Eggert ist das ein Armutzeugnis. Er hatte den deutschen Opernhäusern schon im vergangenen Jahr mangelnde Innovationskraft vorgeworfen:
-
-<Quote author={
-<a href="https://blogs.nmz.de/badblog/2018/04/10/die-ernuechternde-opernstatistik-der-spielzeit-2017-2018/" target="_blank" rel="noopener noreferrer">Moritz Eggert</a>
-}>Überlebenschance der Gattung Oper, wenn sich nicht grundlegend etwas ändert: 0%</Quote>
-
-Philipp Jüttner vom Musiktheater im Revier in Gelsenkirchen wehrt sich gegen den Vorwurf: "Auftragswerke sind aufwändig und teuer". Jedes Jahr vergäben die Opern Aufträge an lebende Komponisten. Jüttner: "Wir schauen, wo wir Lücken im Repertoire schließen können." Einen Bedarf sieht er vor allem bei Werken für ein junges Publikum - also bei Kinderopern. So tourte das Musiktheater im Revier mit "Don Quixote" von Komponistin Katharina Schmauder (Jahrgang 1994) durch die Grundschulen im Umland. Für die große Bühne war das Stück allerdings nicht gedacht.
-
-<Quote author="Philipp Jüttner, Musiktheater im Revier Gelsenkirchen">Zeitgenössische Werke müssen sich beweisen.</Quote>
+<Quote author="Philipp Jüttner, Musiktheater im Revier Gelsenkirchen">Da kann man über eine Männerquote nachdenken</Quote>
 
 Neue Stoffe hätten es häufig schwer, sich gegen populäre Melodien durchzusetzen: "Ein guter Test dafür, was künstlerisch standhält." Deswegen wundere es Philipp Jüttner nicht, dass viele neu komponierte Opern nicht mehr Aufführungen als die Premiere erleben: "Zeitgenössische Werke müssen sich gegen bekannte Opern beweisen."
 
