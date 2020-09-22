@@ -39,7 +39,7 @@ Nadine hat vergessen das (Copy) zu löschen
     <figcaption>Hier sehen Sie etwas grafisches.</figcaption>
     <DataWrapper
         alt="76 mal wurde die Zauberflöte 2018/2019 in NRW aufgeführt, gefolgt von Hänsel und Gretel mit 34 Aufführungen."
-        title="Zauberflöte vor Hänsel und Gretel"
+        title="Durchschnittsalter der Sterbenden"
         src="https://datawrapper.dwcdn.net/qJMX3/1/"
     />
 </figure>
@@ -49,7 +49,7 @@ Nadine hat vergessen das (Copy) zu löschen
 
 
 
-Frauen arbeiten nicht ganz so viel wie Menners in Frabiken, weswegen ihre zierlichen Körpers mehr geschohnt werdem im life vong abschmutzung her.
+Frauen arbeiten nicht ganz so viel wie Menners in Frabiken, weswegen ihre zierlichen Körpers mehr geschohnt werdem im life vong abschmutzung her, sagt unser Experte.
 
 
 
